@@ -1,0 +1,519 @@
+<i> ultu </i> <i> muhhi </i> <i> miṣir šá </i> GODNAME adi muhhi miṣir </i> 
+<i> šá </i> GODNAME <i> miišhi </i> <i> šá </i> GODNAME 
+pap NUM lim NUM me <i> ina </i> kùš <i> ina </i> NUMta i<sub>7</sub>meš 
+<i> ana </i> <i> sattuk </i> lú mu <i> útu </i> 
+<ENDTOKEN> NUM <i> mašihi </i> <i> ina </i> <i> pappasu </i> 
+<ENDTOKEN> zúlumma <i> šá </i> <i> ina </i> é nígga <i> šá </i> 
+<ENDTOKEN> NUM gín kùbabbar <i> ina </i> <i> pappasu </i> lú uš bar <i> útu </i> 
+NUM gín kùbabbar <i> ina </i> <i> sattuk </i> lú lunga <i> tu </i> 
+<i> ina </i> <i> sattuk </i> lú mu <i> tu </i> <i> šá </i> é 
+<i> ana </i> NAME a NAME sì <i> na </i> 
+<i> ù </i> NAME lú <i> šá </i> <i> muhhi </i> NUMmeš 
+NUM mana NUM NUMNUM gín kùbabbar <i> ina </i> šám 
+<i> šá </i> <i> ina </i> <i> muhhi quuppu ina qíbi </i> 
+<i> šá </i> NAME </i> a <i> šú šá </i> NAME 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> 
+lú umbisag NAME a <i> šú šá </i> NAME a lú gírlá 
+NAME </i> lugal LOCATION < <i> u </i> > kurkur 
+<i> ittadin </i> kùbabbar <i> šá </i> <i> ana </i> 
+<ENDTOKEN> šebar <i> šá </i> <i> ina </i> é nígga i<sub>7</sub> LOCATION iti še sì <i> naat </i> 
+pappap NUM gur kimin iti <i> ana </i> NAME sì 
+NUM me NUM udunita<sub>2</sub> NUM <i> qa </i> àm NUM <i> pi </i> NUM udunita<sub>2</sub> NUMNUM <i> qa </i> àm 
+<i> ana </i> NAME <i> u </i> NAME </i> sì <i> in </i> 
+NUMNUM šebar kurum<sub>6</sub>há NAME a <i> šú šá </i> NAME 
+<ENDTOKEN> NAME a <i> šú šá </i> NAME ana </i> NAME 
+lú <i> qíipi </i> ébabbarra <i> u </i> NAME lú sanga LOCATION 
+NUM lú engarmeš NUMta anbar <i> sikkát </i> meš NUMta <sup>giš</sup> <i> marri </i> meš 
+<i> ina </i> muanna NUM me <gur> šebar <sup>giš</sup>bán <i> kii </i> lú engarmeš 
+<i> u </i> <i> ina </i> <i> muhhi </i> <i> riihti </i> šenumun <i> šá </i> <i> ina </i> <i> lìbbi </i> <i> naášpar </i> <i> ti </i> lú <i> qíipi </i> 
+NUM gu<sub>4</sub>meš NUM lú engarmeš NUMta anbar <i> sikkát </i> meš 
+iti bár mu NUMkam NUM gur šenumun šebar NUM gu<sub>4</sub>meš NUM lú engarmeš 
+<i> ana </i> NAME <i> inamdinu </i> lú <i> mukinnu </i> NAME a <i> šú šá </i> 
+NAME a lú sanga LOCATION NAME a lú sanga LOCATION 
+NAME a lú sanga LOCATION NAME </i> a lú sanga LOCATION 
+LOCATION iti zíz u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION 
+<i> šá </i> iti izi <i> elat </i> igi <i> tu </i> 
+sì <i> na </i> iti apin u<sub>4</sub> NUMkam mu NUM kam NAME 
+NUM lú erin<sub>2</sub>meš NUM gur <i> šá </i> lú erin<sub>2</sub>meš uru 
+NUM gur kurum<sub>6</sub>há NUM <i> ṣabit </i> ameš NUM gur 
+<i> šá </i> <i> itti </i> <sup>giš</sup>má <i> šá </i> lú umbisagmeš 
+<i> ana </i> NUM NUMNUM mana kùbabbar <i> kii </i> <i> pii </i> 
+sì <i> nu </i> <i> u </i> <i> ina </i> gub <i> zu </i> 
+<ENDTOKEN> lú <i> mukinnu </i> tu <i> šá </i> NAME 
+a <i> šú </i> <i> šá </i> NAME <i> ina </i> igi NAME 
+NAME </i> a <i> šú </i> <i> šá </i> NAME 
+<ENDTOKEN> NUM gín NUM <i> tú </i> lá kùbabbar šám 
+NUM gur NAME <i> u </i> šešmeš <i> šú </i> 
+<ENDTOKEN> NUM gúun anbar NUM <i> en </i> NUMNUM gúun 
+<i> šá </i> lú erin<sub>2</sub>meš <i> šá </i> ta <i> šutùm </i> lugal 
+<i> ana </i> NAME lú simug sì <i> na </i> 
+a <i> šú šá </i> NAME a lú sanga LOCATION 
+<i> taaddin </i> lú mukin<sub>7</sub> NAME a <i> šú šá </i> 
+éGODNAME <i> ina </i> é <i> ú </i> <i> ree </i> 
+<i> šá </i> GODNAME <i> šá </i> <i> ina </i> <i> muhhi </i> NAME 
+<i> mahir </i> lú <i> mukin </i> <i> nu </i> 
+a lú sanga LOCATION NAME GODNAME a <i> šú šá </i> NAME 
+<i> šá </i> lú gándùmeš <i> šá </i> mu sag namlugalla 
+<i> šá </i> nam LOCATION NUM me kùš ús anta tu<sub>15</sub> martu 
+NUM me NUM kùš sagki anta tu<sub>15</sub> sisá ússadu šà ašà 
+NUM me NUM kùš sagki kita tu<sub>15</sub> u<sub>18</sub>lu gú i<sub>7</sub> lú agrig 
+<i> ù </i> NAME dumumeš <i> šá </i> NAME </i> a NAME 
+šunigin<sup>II</sup> NUMNUM <i> qa </i> šenumun <i> šániti mišiihti </i> 
+NUM <i> qa </i> NUM nindahá <i> šalšú šá </i> nindahá šenumun sagdù ússadu 
+šunigin<sup>II</sup> NUM gurNUM <i> pi </i> šenumun <i> mišiihti </i> ašà <i> šuati </i> 
+< <i> ina </i> > <i> kanaku </i> imdub <i> šuatì </i> 
+<i> ina </i> <i> mahar </i> NAME lú émaš LOCATION 
+LOCATION iti šu u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION <i> u </i> kurkur 
+<i> ṣupur </i> NAME <i> ù </i> NAME dumumeš NAME 
+<ENDTOKEN> NUM NUMNUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> 
+<i> šá </i> iti <i> ana </i> <i> muhhi </i> NUM <i> manée </i> NUM gín kùbabbar 
+u<sub>4</sub> NUMkam <i> šá </i> iti ab ur<sub>5</sub>ra <i> ina muhhi </i> <i> šúnu </i> 
+<i> irabbi </i> iti šu kùbabbar <i> ù </i> ur<sub>5</sub>ra <i> šú </i> 
+<i> šá </i> NAME lú tuk <i> ú šánamma </i> 
+kùbabbar <i> šú u </i> ur<sub>5</sub>ra <i> šú išallimu </i> NUM <i> en </i> <i> puut </i> 
+NUM <i> i našuú </i> lú <i> mukinnu </i> NAME 
+NAME a <i> šú šá </i> NAME a lú sanga GODNAME 
+<ENDTOKEN> é <i> šá </i> NAME a <i> šú šá </i> 
+<i> ana </i> muanna NUM gín kùbabbar <i> a </i> <i> na </i> 
+<i> idi </i> é <i> ana </i> NAME a <i> šú šá </i> 
+<i> iddin ahi </i> kùbabbar <i> ina reeš </i> muanna 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> 
+<ENDTOKEN> NUM <i> mašihi </i> <i> maak </i> <i> kasu </i> 
+<i> sattuk </i> <i> šá </i> iti izi <i> šá </i> kurum<sub>6</sub>há 
+igi <i> tú šá </i> dumumeš <i> šá </i> NAME 
+<ENDTOKEN> NUM <i> mašihi </i> <i> šá </i> <i> sattuk </i> zúlumma 
+<i> ina </i> <i> pappasu </i> <i> šá </i> é GODNAME 
+NUM <i> mašihi </i> <i> šá </i> <i> sattuk </i> zúlumma 
+<i> šá </i> u<sub>4</sub> NUMkam <i> šá </i> iti gu<sub>4</sub> 
+<ENDTOKEN> NUMNUM <i> as </i> <i> ṣa </i> <i> née </i> 
+<ENDTOKEN> NUM <i> mašihu </i> <i> šá </i> <i> sattuk </i> šebar 
+NUM <i> mašihu </i> <i> šá </i> <i> sattuk </i> zúlumma 
+<i> šá </i> u<sub>4</sub> NUMkam <i> šá </i> iti du<sub>6</sub> 
+<ENDTOKEN> NUM NUMNUM mana NUM gín kùbabbar <i> pitequ </i> 
+NUM gín kùbabbar <i> ina </i> <i> pitequ </i> lá 
+<ENDTOKEN> šebar <i> sattuk </i> <i> šá </i> lú mumeš <i> šá </i> iti kin 
+mu NUMkam <i> ina </i> é nígga <i> šá </i> gú i<sub>7</sub> LOCATION 
+sì <i> na </i> iti kin u<sub>4</sub> NUMkam mu NUMkam 
+NUM gur šebar ta <i> ir </i> <i> bi </i> 
+<i> ina </i> kurum<sub>6</sub>há mu NUMkam <i> an </i> <i> a </i> 
+sì <i> na </i> iti du<sub>6</sub> u<sub>4</sub> NUMkam mu NUM 
+NUM gín kùbabbar <i> ina pappasu </i> lú ušbar <i> tu </i> 
+<i> šá muhhi </i> <i> ešruú </i> <i> ittannu </i> 
+<ENDTOKEN> NUM <i> mašihi </i> <i> šá sat </i> <i> tuk </i> 
+lú ugula <i> u </i> lú mumeš sì <i> na </i> 
+<i> ina sattuk šá </i> iti še <i> ana </i> 
+<ENDTOKEN> <i> lubuuštu </i> <sub>4</sub> šá iti gu<sub>4</sub> <i> ana </i> NAME 
+lú <i> nu </i> <sup>giš</sup>kiri<sub>6</sub> <i> šá </i> lú <i> mandidi </i> 
+u<sub>4</sub> NUMkam NAME u<sub>4</sub> NUMkam NAME NAME NUMkam NAME lú mandidi 
+u<sub>4</sub> NUMkam NAME u<sub>4</sub> NUMkam NAME NUMkam NAME lú mandidi 
+u<sub>4</sub> NUMkam NAME u<sub>4</sub> NUMkam NAME NUMkam NAME u<sub>4</sub> NUMkam NAME lú mandidi 
+NUMu<sub>4</sub> NUMkam NUMu<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam NUMu<sub>4</sub> NUMkam NUMu<sub>4</sub> NUMkam 
+NUM u<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam 
+NUM u<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam NAME u<sub>4</sub> NUMNUMkam NUM u<sub>4</sub> NUMkam NUM u<sub>4</sub> NUMkam 
+NAME a NAME NAME šá NAME a NAME umbisag NAME ašú šá NAME NAME LOCATION iti gan 
+<ENDTOKEN> é NAME ašú šá NAME da é NAME ašú šá NAME NAME ù da é NAME šá NAME šá NAME ašú šá 
+lú umbisag NAME ašú šá NAME iti še u<sub>4</sub> NUMNUMlákam mu NUMkam 
+<i> u </i> šešmeš <i> šú </i> dumumeš <i> šá </i> NAME 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> 
+<ENDTOKEN> NUM gur šebar NUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa nu </i> <i> uhhutu </i> 
+a <i> šú šá </i> NAME a NAME <i> ina muhhi </i> NAME a <i> šú </i> <i> šá </i> 
+NAME <i> ina </i> iti šu šebar <i> a </i> <sub>4</sub> NUM gur <i> ina </i> <sup>giš</sup> <i> mašihu </i> <i> šá </i> NUM <i> pi </i> 
+<i> ù </i> kùbabbar <i> a </i> <sub>4</sub>NUM mana <i> šá </i> <i> ina lìbbi </i> NUM mana NUM gín 
+<i> inamdin elat rašutú </i> igi <i> tu </i> <sub>4</sub> 
+lú <i> mukinnu </i> NAME </i> a <i> šú šá </i> NAME 
+<ENDTOKEN> NUM gur šenumun ašà edin <sup>giš</sup>kiri<sub>6</sub> <sup>giš</sup>gišimmarmeš <i> zaqpu </i> 
+agàr uru <i> litamu </i> du<sub>8</sub> kágal GODNAME nam LOCATION 
+ús kita tu<sub>15</sub> u<sub>18</sub>lu dumumeš <i> šá </i> NAME dumu lú šuha 
+sag anta tu<sub>15</sub> martu ússadu kaskal<sup>II</sup> lugal <i> šá </i> gú i<sub>7</sub> <i> piqudu </i> 
+šunigin NUM gur šenumun ašà <i> šuatì ina lìbbi </i> NUM gur šenumun 
+<i> zaqpi kii </i> NUMNUM šenumun <i> ana </i> NUMNUM gín kùbabbar NUM NUMNUM mana NUM NUMNUM gín kùbabbar 
+kilábi <i> ù </i> NUM gur šenumun ašà <i> merešú ù taptuú </i> <i> kii </i> NUMNUM šenumun 
+<i> ana </i> NUM gín kùbabbar NUM mana kùbabbar kilábi <i> itti </i> NAME 
+dumu <i> šú </i> <i> šá </i> NAME dumu lú gírlá <i> karri </i> NAME 
+dumu <i> šú </i> <i> šá </i> NAME dumu NAME 
+ganba <i> imbéema </i> NUM NUMNUM mana NUM NUMNUM gín kùbabbar 
+igi NAME </i> dumu <i> šú </i> <i> šá </i> NAME dumuNAME 
+NAME dumu <i> šú </i> <i> šá </i> NAME dumu NAME 
+NAME dumu <i> šú </i> <i> šá </i> NAME dumu NAME 
+NAME </i> a <i> šú </i> <i> šá </i> NAME 
+<ENDTOKEN> NAME a <i> šú </i> <i> šá </i> NAME 
+a lú <i> mandidi ina </i> GODNAME <i> u </i> GODNAME 
+a <i> šú </i> <i> šá </i> NAME a NAME 
+a <i> šú </i> <i> šá </i> NAME a NAME 
+<i> ina </i> <i> muhhiia ù ina </i> <i> muhhi </i> 
+<i> ina </i> <i> muhhi </i> <i> ia ù ina muhhi </i> NAME 
+a <i> šú </i> <i> šá </i> NAME a NAME </i> NAME 
+a <i> šú </i> <i> šá </i> NAME a NAME <i> u </i> NAME 
+a <i> šú </i> <i> šá </i> NAME a NAME 
+NAME lú umbisag a <i> šú </i> <i> šá </i> NAME 
+<ENDTOKEN> NUMNUM manakùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> 
+a< <i> šú šá </i> > NAME a lú bahar<sub>2</sub> < <i> mahir </i> > 
+a lú simug NAME a< <i> šú šá </i> > NAME 
+<ENDTOKEN> NUM gur zúlumma zaglu <i> šá </i> <i> ina </i> ugu ašà 
+<i> šá </i> NAME <i> ù </i> šešmeš <i> šú </i> 
+<i> ina </i> ugu NAME a <i> šú šá </i> NAME 
+zúlumma <i> ina </i> <i> mašihu </i> <i> šá </i> NUM <i> pi </i> 
+<i> itti </i> NUM gur <i> tuhalla </i> <i> gipuú </i> 
+<i> mangaga biltu </i> <sub>4</sub> <i> šá </i> <i> huṣabi </i> 
+<i> šugarruú ina ha </i> <i> ṣa </i> <i> ri </i> 
+a NAME simug NAME a< <i> šú šá </i> > NAME 
+<i> u </i> lú umbisag NAME a <i> šú šá </i> NAME 
+a <i> šú šá </i> NAME a NAME <i> ana </i> hala 
+<i> ana </i> NUMNUM manakùbabbar babbar <i> ú </i> <i> adi </i> NUMta muannameš 
+<i> ana </i> NAME a <i> šú šá </i> NAME a lú dù <i> eš </i> dingir 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+a <i> šú šá </i> NAME a lú dù <i> eš </i> dingir 
+<i> ana </i> kaskal<sup>II</sup> <i> šá </i> NAME <i> ina </i> <i> muhhi </i> NAME 
+šebar <i> a </i> <sub>4</sub> NUM gur <i> ina </i> <i> mašihu </i> <i> šá </i> NUM <i> pi </i> 
+<i> ina </i> é NAME <i> ina </i> ugu <i> ina </i> ugu i<sub>7</sub> <i> piqudu </i> 
+<i> úìltì </i> igi <i> tu </i> <sub>4</sub> <i> šá </i> NUM gur šebar 
+<ENDTOKEN> NUM gurNUM <i> pi </i> šebar <i> šibšú </i> ašà <i> šá </i> uru <i> litamu </i> 
+NAME a <i> šú šá </i> NAME a lú gírlá 
+<i> ina </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME 
+<i> ana muhhi </i> NAME a <i> šú šá </i> 
+lú umbisag a <i> šú šá </i> NAME a NAME 
+<i> labiri šá </i> ússadu dumumeš <i> šá </i> NAME 
+a NAME šá </i> NAME <i> u </i> šešmeš <i> šú </i> 
+dumumeš <i> šá </i> NAME a NAME <i> ù </i> 
+NAME </i> a <i> šú šá </i> NAME a NAME 
+<i> ana </i> lú nu<sup>giš</sup>kiri<sub>6</sub> <i> útu ana </i> NAME a <i> šú šá </i> 
+NUM gur šenumun <i> taptuú </i> NUM gur <i> ù </i> <i> ana </i> NUM gur é <i> dul </i> <i> lu </i> <sub>4</sub> 
+<i> inamdin adi </i> NUMta muannameš šenumun <i> ina </i> igi <i> šú </i> šenumun 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME NAME 
+a <i> šú šá </i> NAME a NAME NAME a <i> šú šá </i> NAME 
+<i> šá </i> NAME a <i> šú šá </i> NAME a NAME 
+<i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME a NAME 
+lú <i> muki </i> <i> nnu </i> NAME a <i> šú šá </i> NAME 
+a lú adgub<sub>5</sub> NAME a <i> šú šá </i> NAME 
+a NAME NAME </i> a <i> šú šá </i> NAME 
+a lú galdù NAME a <i> šú šá </i> NAME 
+<i> šá </i> NAME a <i> šú šá </i> NAME a NAME 
+<i> šá ana </i> NUMNUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> nuuhhutu </i> 
+<i> šá ana </i> hala <i> ana </i> NAME a <i> šú šá </i> NAME 
+lú <i> mu </i> <i> kinnu </i> NAME a <i> šú šá </i> NAME 
+a NAME NAME </i> a <i> šú šá </i> NAME 
+a lú nagar NAME a <i> šú šá </i> NAME 
+a lú nagar NAME a <i> šú šá </i> NAME 
+NAME dubsar dumu <i> šú </i> <i> šá </i> NAME 
+<ENDTOKEN> NUM gur zúlumma <i> ina </i> <i> naášpirtu </i> <sub>4</sub> 
+<i> ina </i> šu<sup>II</sup> NAME </i> lú qal <i> la </i> 
+šebar <i> aʾ </i> NUM gur <i> ina </i> <i> mašihu </i> <i> šá </i> NUM <i> pi </i> 
+<i> šá </i> NAME <i> ina </i> <i> muhhi </i> 
+NUM <i> rittu </i> <sub>4</sub> <i> ina </i> ugu i<sub>7</sub> <i> piqudu </i> 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+a <i> šú šá </i> NAME NAME a <i> šú šá </i> 
+a <i> šú šá </i> NAME NAME lú umbisag a <i> šú šá </i> 
+<i> ina </i> ugu NAME dumu <i> šá </i> NAME 
+<i> šá </i> NAME lugal FEMALENAME dumumí <i> šá </i> NAME 
+dumu NAME ana </i> NUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> 
+<i> nuuhhutú ana </i> NAME dumu <i> šá </i> NAME 
+dumu lú sanga GODNAME <i> taaddinnu </i> kùbabbar <i> a </i> <sub>4</sub> NUM mana 
+<i> ki </i> <i> i útirru ana </i> FEMALENAME <i> id </i> <i> din </i> 
+lú <i> mukinnu </i> NAME dumu <i> šá </i> NAME dumu NAME 
+NUM <i> en </i> taàm <i> il </i> <i> quú </i> 
+<ENDTOKEN> NUM NUMNUM mana NUM gín kùbabbar babbar <i> ú </i> <i> nuuhhutu </i> 
+<i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> šá </i> NAME a <i> šú šá </i> NAME 
+a NAME ina rašutu </i> <i> šú </i> <i> šá </i> <i> ina muhhi </i> 
+<i> ina </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME ana muhhi </i> 
+<i> mahiir </i> NUM <i> en </i> taàm <i> šáṭari </i> ti <i> ú </i> 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+NAME a <i> šú šá </i> NAME a NAME sanga GODNAME 
+lú umbisag NAME a <i> šú šá </i> NAME LOCATION 
+<ENDTOKEN> NUMNUM mana NUM gín kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> nuuhhutu </i> 
+<i> šá </i> NAME dumu <i> šá </i> NAME dumu NAME 
+<i> ina </i> ugu NAME </i> dumu <i> šá </i> NAME 
+u<sub>4</sub> NUMkam <i> šá </i> iti zíz mu NUMkam <i> inamdin </i> 
+lú <i> mukinnu </i> NAME dumu <i> šá </i> NAME dumu NAME 
+NAME dumu <i> šá </i> NAME dumu lú šitim NAME 
+dumu <i> šá </i> NAME dumu NAME NAME dumu <i> šá </i> 
+<ENDTOKEN> NUM gur šebar NUMNUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> 
+<i> nuuhhutú </i> <i> šá </i> NAME </i> a <i> šú </i> <i> šá </i> 
+<i> ina </i> iti gu<sub>4</sub> šebar <i> a </i> <sub>4</sub> NUM gur <i> ina </i> ugu i<sub>7</sub> <i> inamdin </i> 
+<i> ù </i> kùbabbar <i> a </i> <sub>4</sub> NUMNUM mana <i> šá </i> iti <i> ina </i> ugu NUM mana 
+NUM gín <i> ina </i> ugu <i> šú irabbi elat </i> NUMta 
+<i> úìltì </i> meš <i> šá </i> NUM gur zúlumma 
+<i> ù </i> NUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> 
+<i> nuuhhutú </i> <i> šá </i> <i> ina </i> <i> muhhi </i> NAME 
+<i> elat </i> NUM gur šebar <i> šá </i> iti gan <i> inamdiin </i> 
+<i> kii </i> iti gan <i> la ittannu </i> NUM gín kùbabbar babbar <i> ú </i> 
+NAME ana </i> NAME kuum </i> šebar <i> a </i> <sub>4</sub> NUM gur <i> inamdin </i> 
+lú <i> mukinnu </i> NAME </i> a <i> šú </i> <i> šá </i> NAME </i> a NAME 
+NAME a <i> šú </i> <i> šá </i> NAME a NAME 
+NAME a <i> šú </i> <i> šá </i> NAME a NAME 
+NAME a <i> šú </i> <i> šá </i> NAME a NAME 
+NAME a <i> šú </i> <i> šá </i> NAME a lú simug 
+<i> ina </i> igi NAME dumu <i> šá </i> NAME dumu NAME 
+<i> ina </i> iti bár <i> šipirtu </i> <sub>4</sub> <i> šá </i> NAME 
+kùbabbar <i> a </i> <sub>4</sub> NUMNUM mana NUM gín NAME 
+lú <i> mukinné </i> NAME dumu <i> šá </i> NAME 
+<ENDTOKEN> NUM NUMNUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME 
+<i> ina </i> <i> muhhi </i> NAME </i> a <i> šú šá </i> NAME 
+a NAME <i> ina </i> iti bár <i> inamdin </i> 
+<i> ana </i> NAME a <i> šú </i> <i> šá </i> NAME 
+NUM  <i> u </i> lú umbisag NAME a <i> šú </i> <i> šá </i> NAME a NAME 
+a <i> šú šá </i> NAME a NAME ina </i> 
+<i> ina </i> šu<sup>II</sup> NAME a <i> šú šá </i> 
+<ENDTOKEN> NUMNUM mana NUM gín NUM <i> tú </i> NUM gín kùbabbar 
+<i> šá </i> NAME a <i> šú šá </i> NAME 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+NAME a <i> šú šá </i> NAME </i> a NAME 
+<i> úìltì </i> meš <i> šá </i> kùbabbar <i> u </i> zízàm 
+<i> šá </i> NAME a <i> šú šá </i> NAME 
+a lú galdù NAME <i> u </i> šešmeš <i> šú </i> 
+<i> ù </i> NAME a <i> šú šá </i> NAME 
+a NAME <i> ina muhhi </i> NAME a <i> šú šá </i> NAME 
+a lú galdù <i> ù </i> NAME a <i> šú šá </i> NAME 
+a lú šitim NUM <i> en puut </i> NUM <i> i našuú ina </i> iti apin 
+zúlumma <i> aʾ </i> NUM gur <i> ina haṣari </i> 
+<i> mangaga </i> <i> gipuú </i> NUM <i> biltu </i> <sub>4</sub> 
+<i> šá </i> <i> huṣabi </i> NUM <i> dariku </i> <i> inamdin </i> <i> nu </i> <i> ʾu </i> 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+a NAME NAME lú umbisag a <i> šú šá </i> 
+<i> ú </i> <i> ul </i> <i> i </i> <i> nu </i> <i> ʾu </i> 
+<i> šá </i> NAME a <i> šú šá </i> NAME 
+<i> ana </i> NAME a <i> šú šá </i> NAME 
+NUM gín kùbabbar <i> ina idi </i> é <i> šú mahiir </i> 
+<i> ultu </i> u<sub>4</sub> NUMkam iti kin é <i> ina </i> igi 
+<i> šá </i> <i> ina </i> igi NAME lú <i> mukinnu </i> 
+lú <i> damqa </i> lú umbisag NAME a <i> šú šá </i> 
+lugal kurkur NUM <i> en </i> ata <i> ma iltequú </i> 
+<ENDTOKEN> é <i> šá </i> <i> ina </i> ká <i> giššú šá </i> NAME a <i> šú </i> 
+<i> šá </i> NAME a NAME ana idi </i> é 
+<i> adi </i> NUM muannameš <i> ana </i> muanna NUM gín kùbabbar 
+<i> ana </i> NAME a <i> šú šá </i> NAME a NAME 
+iti bár iti šu <i> u </i> iti gan <i> nuuptu </i> <sub>4</sub> 
+<i> u riihtu </i> <sub>4</sub>kùbabbar <i> ina </i> <i> mišil </i> muanna 
+é <i> ina </i> igi <i> šú </i> NUM gín kùbabbar 
+<ENDTOKEN> NUM gín kùbabbar <i> elat </i> NUM mana NUM gín kùbabbar 
+<i> mahruú </i> <i> ina </i> NUM NUMNUM mana kùbabbar 
+šám ašà <i> u </i> é <i> šá </i> kágal <i> giššú </i> 
+<i> šá </i> NAME a <i> šú šá </i> NAME a NAME 
+<i> šá </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME 
+<i> ina </i> <i> qati </i> NAME <i> mahiir </i> 
+lú <i> mukinnu </i> NAME </i> a <i> šú </i> 
+<i> ina </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME </i> a lú ušbar 
+NUM      <i> š </i> <i> uú </i> NAME u </i> NAME 
+lú <i> mukinnu </i> NAME dumu <i> šú šá </i> NAME dumu NAME 
+NAME </i> dumu <i> šú </i> <i> šá </i> NAME </i> dumu NAME 
+NAME dubsar dumušú <i> šá </i> NAME </i> dumu lú simug 
+<i> šá </i> NAME a <i> šú šá </i> NAME 
+a NAME ina muhhi </i> NAME a <i> šú </i> <i> šá </i> 
+<i> ina </i> iti apin zúlumma <i> a </i> <sub>4</sub> NUM gur NUM <i> pi </i> 
+<i> ina muhhi </i> NUM <i> rittu </i> <i> NUM </i> <i> itti </i> NUM gur 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+<ENDTOKEN> <i> úìltì šá </i> NUM mana NUM gín kùbabbar <i> šá </i> NAME 
+a <i> šú šá </i> NAME a NAME šá </i> ugu NAME 
+a <i> šú šá </i> NAME a NAME u <sup>fd</sup>baba<sub>6</sub> <i> enqit </i> 
+ama <i> šú </i> dumumí <i> su šá </i> NAME </i> a NAME 
+<i> maškanu ṣabtu úìltì šá </i> NUMNUM mana kùbabbar <i> šá </i> ugu 
+NAME <i> u </i> <sup>fd</sup>baba<sub>6</sub> <i> enqit </i> ama <i> šú šá </i> NAME 
+<i> puut </i> <i> našuú úìltì šá </i> NUMNUM mana kùbabbar <i> šá </i> ugu 
+NAME <i> u </i> <sup>fd</sup>baba<sub>6</sub> <i> enqit </i> ama <i> šú </i> <i> u </i> é <i> maškanu ṣabtu </i> 
+<i> úìltì šá </i> NUMNUM mana kùbabbar <i> šá </i> FEMALENAME dumumí <i> su </i> 
+<i> šá </i> NAME a NAME šá </i> ugu NAME 
+<i> u </i> <sup>fd</sup>baba<sub>6</sub> <i> enqit </i> ama <i> šú </i> <i> úìltì šá </i> NUM gín kùbabbar < <i> šá </i> > 
+NAME šá </i> ugu NAME a <i> šú </i> <i> šá </i> 
+<i> šá </i> NAME a <i> šú šá </i> NAME a NAME < <i> šá </i> ugu NAME 
+<i> u </i> <sup>fd</sup>baba<sub>6</sub> <i> enqit </i> ama <i> šú </i> NAME a <i> šú šá </i> NAME 
+a NAME ina </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME 
+<i> ana </i> ugu NAME a <i> šú šá </i> NAME a NAME 
+<i> u </i> <sup>fd</sup>baba<sub>6</sub> <i> enqit </i> ama <i> šú </i> <i> eṭiir </i> u<sub>4</sub> NUMkam <i> šá </i> iti ab 
+<i> úìltì a </i> <sub>4</sub> NUMta NAME <i> inaáššáamma ana </i> 
+NAME a <i> šú šá </i> NAME a NAME <i> u </i> NAME 
+a <i> šú šá </i> NAME a NAME <i> inamdin </i> <i> mimma šá </i> NAME 
+ugu NAME a <i> šú šá </i> NAME a NAME 
+a <i> šú šá </i> NAME a NAME NAME a <i> šú šá </i> NAME 
+a NAME NAME a <i> šú šá </i> NAME </i> a NAME NAME 
+a <i> šú šá </i> NAME a NAME </i> NAME a <i> šú </i> 
+<i> šá </i> NAME a lú šitim NAME a <i> šú </i> 
+<i> šá </i> NAME a NAME <i> u </i> lú umbisag NAME a <i> šú </i> 
+<i> šá </i> NAME a NAME LOCATION iti ab u<sub>4</sub> NUMkam 
+NAME a <i> šú šá </i> NAME <i> u </i> FEMALENAME 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> NAME 
+<i> u </i> kurkur NUM <i> en </i> taàm <i> šáṭaru </i> 
+NAME dumu <i> šú šá </i> NAME dumu lú <i> mandidi </i> 
+NUM NUMNUM mana kùbabbar <i> ana </i> šám <i> šú gamrutu </i> 
+šunigin NUM NUMNUM mana NUM gín kùbabbar kùpaddu <i> ina </i> šu<sup>II</sup> 
+<i> ina </i> ugu NAME a <i> šú šá </i> NAME 
+<i> gamrutu </i> <i> ina </i> LOCATION <i> inamdin </i> 
+NUM gúun <i> šá </i> <i> huṣabi </i> <i> inamdin </i> 
+<ENDTOKEN> NUM me NUM gur zúlumma <i> šá </i> NAME dumu <i> šá </i> 
+NAME ina muhhi </i> NAME dumu <i> šá </i> NAME MONTH šá </i> mu NUMkam NAME lugal 
+zúlumma <i> a<sub>4</sub> </i> NUM me NUM gur <i> ina </i> <sup>giš</sup> <i> ma </i> <i> šihu </i> 
+<i> šá </i> NAME <i> ina </i> LOCATION ina haṣari </i> 
+<i> inamdin </i> šenumun <i> šú zaqpi </i> <i> u pi </i> <sub>4</sub> <i> šul </i> <i> pu šá </i> gú 
+zúlumma <i> a<sub>4</sub> </i> NUM me NUM gur <i> ina pani </i> NAME <i> šá </i> NAME </i> <sup>lú</sup>tuk <i> ú šánamma ana muhhi </i> 
+<i> ul išallaṭ adi muhhi </i> NAME <sup>lú</sup>tuk <i> su </i> 
+NAME NAME dumu <i> šá </i> NAME NAME </i> dumu <i> šá </i> 
+NAME </i> NAME dumu <i> šá </i> NAME NAME <i> šá </i> NAME </i> NAME dumu <i> šá </i> NAME dumu <i> šá </i> NAME NAME dumu <i> šá </i> NAME <sup>lú</sup>umbisag dumu <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam 
+<ENDTOKEN> NUM lim NUM me NUM gurNUM zúlumma <i> šá </i> NAME <i> šá </i> NAME ina muhhi </i> NAME dumu <i> šá </i> 
+NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME <i> šá </i> NAME <i> ina </i> MONTH mu NUMkam zúlumma <i> a<sub>4</sub> </i> 
+NUM lim NUM me NUM gurNUM <i> ina </i> <sup>giš</sup> <i> mašihu šá </i> 
+<i> inamdinnuu </i> ašà <i> šúnu </i> é <sup>giš</sup>ban <i> šúnu </i> 
+<i> maškannu ina </i> igi NAME <sup>lú</sup>tuk <i> ú </i> 
+<sup>lú</sup> <i> mukinnu </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME <sup>lú</sup> <i> paqudu šá </i> LOCATION 
+NAME a <i> šá </i> NAME </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME <i> šá </i> NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME MONTH u<sub>4</sub> NUMkam mu NUMkam 
+<i> ṣupur </i> NAME <i> ṣupur </i> NAME NAME </i> NAME 
+<i> šá ina </i> LOCATION šá </i> NAME <i> šá </i> NAME šá ina </i> igi 
+NAME a <i> šá </i> NAME </i> NAME a <i> šá </i> 
+NAME NAME <a <i> šá </i> > NAME a <i> šá </i> NAME </i> NAME <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME MONTH u<sub>4</sub> NUMkam mu NUMkam 
+<ENDTOKEN> NUM gur zúlumma <i> šá </i> NAME a <i> šá </i> NAME muhhi </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME </i> NAME a <i> šá </i> NAME <sup>lú</sup>enmeš <sup>giš</sup>ban <i> šú </i> <i> gabbi ina </i> MONTH <i> šá </i> mu NUMkam 
+zúlumma <i> a </i> NUM gur <i> ina </i> <sup>giš</sup> <i> mašihu šá </i> NAME </i> LOCATION inamdinu </i> ašà <i> šúnu </i> 
+<i> zaqpu </i> é <sup>giš</sup>ban <i> šúnu </i> gú i<sub>7</sub> <i> harripiqudu </i> 
+<i> maškanu ina </i> igi NAME <sup>lú</sup>tuk <i> ú šánamma </i> 
+<sup>lú</sup> <i> mu </i> <i> kinnu </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME </i> NAME NAME a <i> šá </i> NAME LOCATION u<sub>4</sub> NUMkam mu NUMkam NAME kurkur 
+<ENDTOKEN> NAME dumu <i> šá </i> NAME ina huud lìbbišú ana </i> NAME dumu <i> šá </i> 
+NAME kiaam iqbi umma </i> šenumun <i> úa zaqpu u pi </i> <sub>4</sub> <i> šulpu u </i> šenumun <i> zaqpu u pi </i> <sub>4</sub> <i> šulpu </i> 
+<sup>giš</sup>bán ašà mumeš NAME <i> ana </i> NAME inamdin </i> <sup>giš</sup>bán ašà <i> šú gamri </i> 
+<i> šá </i> muannameš <i> a </i> NUM NAME a <i> šá </i> NAME ina </i> šu<sup>II</sup> NAME dumu <i> šá </i> 
+NAME mahir eṭir ina u </i> <sub>4</sub> <i> mu adi la </i> muannameš <i> a </i> NUM <i> išallimu </i> 
+ta MONTH mu NUMkam NAME lugal šenumun mumeš <i> adi </i> NUM muannameš 
+NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME u </i> NAME dumumeš <i> šá </i> 
+<sup>lú</sup>umbisag NAME a <i> šá </i> NAME a <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam mu NUMkam 
+<ENDTOKEN> NUM me gur šebar <i> šá </i> NAME a <i> šá </i> 
+NAME ina muhhi </i> NAME <i> šá </i> NAME <i> u </i> FEMALENAME NAME a <i> šá </i> NAME <i> šá </i> NAME <i> ina </i> MONTH mu NUMkam šebar <i> a </i> NUM me gur 
+<i> inamdinnuu </i> NUM <i> en puut </i> NUM <i> i </i> 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME MONTH u<sub>4</sub> NUMkam mu NUMkam 
+<ENDTOKEN> NUMNUM mana kùbabbar <i> qaluú šá </i> NAME <i> šá </i> NAME <i> ina muhhi </i> 
+NAME a <i> šá </i> NAME mu NUMkam NUM gur zúlumma <i> ina </i> šám 
+kùbabbar <i> a </i> NUMNUM mana <i> ina </i> <sup>giš</sup> <i> mašihu šá </i> NAME LOCATION <i> inamdin </i> 
+ta mu NUMkam <i> ina </i> muanna NUM gur zúlumma 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION 
+<ENDTOKEN> <sup>giš</sup>bán ašà <i> gamri šá </i> šenumun é <sup>giš</sup>ban <i> šá </i> NAME šá ina </i> LOCATION <sup>giš</sup>ban <i> šá </i> NAME <i> šá ina </i> LOCATION <i> šá </i> <sup>giš</sup>ban 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME </i> NAME a <i> šá </i> NAME NAME <i> u </i> NAME ameš <i> šá </i> 
+NAME </i> NAME a <i> šá </i> NAME </i> NAME <i> šá </i> NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION šá </i> NAME u<sub>4</sub> NUMkam <i> šá </i> mu NUMkam NAME </i> lugal kurkur 
+na<sub>4</sub> kišib NAME a <i> šá </i> NAME </i> NAME kišib NAME a <i> šá </i> NAME </i> NAME kišib NAME a <i> šá </i> NAME GODNAME a <i> šá </i> NAME kišib NAME a <i> šá </i> NAME 
+<ENDTOKEN> NAME a <i> šá </i> NAME ina huud lìbbišú ana </i> NAME <i> šá </i> NAME kiaam iqbi umma </i> NUM gu<sub>4</sub>há <i> ummanni </i> 
+<i> ina </i> muanna NUM me NUM gur šebar <i> ina </i> <sup>giš</sup> <i> mašihu šá úsiištu </i> <sub>4</sub> 
+<i> ummanni adi únutúšúnu ana </i> <sup>giš</sup>bán <i> adi </i> NUM <i> ta </i> muannameš <i> iddaáššú </i> 
+<i> ina </i> muanna <i> ina </i> MONTH NUM me NUM gur šebar <i> ina </i> <sup>giš</sup> <i> mašihu šá úsiištu </i> <sub>4</sub> 
+<i> šá </i> NAME <i> ina LOCATION <i> inamdin </i> ta MONTH NUMkam <sup>giš</sup>bán <i> adi </i> NUM <i> ta </i> muannameš <i> ina </i> igi NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME 
+NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam 
+<i> unqu </i> NAME a <i> šá </i>   NAME kišib NAME a <i> šá </i> NAME kišib NAME a <i> šá </i> NAME kišib NAME a <i> šá </i> NAME 
+é <i> maškanu </i> ta <i> muhhi </i> <i> miṣir šá ina </i> LOCATION adi muhhi miṣir </i> 
+NUM <i> ta </i> muannameš <i> ana </i> NAME <sup>lú</sup>ìr <i> šú </i> 
+<i> šá </i> <i> la </i> diku<sub>5</sub> NAME ana </i> NAME sì <i> in </i> 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME NAME </i> a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME </i> NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam mu NUMkam 
+NAME NAME dumu šá NAME dumu šá NAME dumu šá NAME dumu šá NAME dubsar dumu šá NAME LOCATION 
+<ENDTOKEN> NUM gur zúlumma <i> šá </i> NAME a <i> šá </i> 
+NAME ina muhhi </i> NAME </i> a <i> šá </i> NAME MONTH <i> šá </i> mu NUMkam NAME lugal 
+zúlumma <i> a </i> NUM gur <i> ina </i> <sup>giš</sup> <i> mašihu 
+<i> u pi </i> <sub>4</sub> <i> šulpu </i> é <sup>giš</sup>ban <i> šú šá 
+<i> ul išallaṭ </i> <i> a </i> <i> di </i> NAME <sup>lú</sup>tuk <i> su </i> 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION 
+MONTH u<sub>4</sub> NUMkam <i> šá </i> mu NUMkam NAME kurkur 
+<i> ṣ </i> <i> upur </i> NAME kišib NAME a <i> šá </i> 
+<ENDTOKEN> NUM me NUM gurNUM zúlumma <i> šá </i> NAME a <i> šá </i> 
+NAME ina muhhi </i> NAME u </i> NAME <i> šá </i> NAME u </i> NAME </i> a <i> šá </i> NAME <sup>lú</sup>enmeš <sup>giš</sup>ban <i> šúnu 
+ašà <i> šúnu zaqpi u pi </i> <sub>4</sub> <i> šulpu </i> é <sup>giš</sup>ban <i> šúnu gabbi </i> 
+<i> šá </i> gú i<sub>7</sub> <i> harripiqudu šá ina </i> LOCATION zúlumma <i> a<sub>4</sub> </i> NUM me NUM 
+NUM <i> en puut </i> NUM <i> i naši šá 
+NAME a <i> šá </i> NAME NAME </i> a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME </i> NAME </i> a <i> šá </i> NAME NAME </i> a <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam 
+<ENDTOKEN> NUM me NUM gurNUM zúlumma <i> šá </i> NAME dumu <i> šá </i> 
+muhhi </i> NAME a <i> šá </i> NAME u </i> <sup>lú</sup>enmeš é ban <i> šúnu šá </i> 
+NUM me NUM gurNUM <i> ina </i> <sup>giš</sup> <i> mašihu 
+NUM <i> en puut </i> NUM <i> i ana </i> kar <i> našuú šá qéreb iṭṭir </i> 
+ašà <i> šúnu zaqpu u pi </i> <sub>4</sub> <i> šulpu </i> é <sup>giš</sup>ban <i> šúnu šá </i> gú i<sub>7</sub> <i> harripiqud </i> 
+<i> šá ina </i> LOCATION tu<sub>1</sub><sub>5</sub>sisá <i> u </i> tu<sub>1</sub><sub>5</sub>u<sub>1</sub><sub>8</sub>lu ússadu 
+<i> nakkandu </i> lugal <i> maškanu </i> zúlumma <i> a </i> NUM me NUM gurNUM 
+<ENDTOKEN> NUM me NUM gur zúlumma <i> šá </i> NAME a <i> šá </i> NAME muhhi </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME šá </i> <sup>lú</sup> <i> haaṭri </i> 
+lugal <i> ina </i> MONTH <i> šá </i> mu NUMkam NAME lugal 
+zúlumma <i> a </i> NUM me NUM gur <i> ina </i> <sup>giš</sup> <i> mašihu 
+inamdinnuu </i> NUM <i> en puut </i> NUM <i> i ana </i> kar <i> našuu </i> 
+<i> šá qéreb iṭṭir </i> ašà <i> šúnu zaqpu u pi </i> <sub>4</sub> <i> šulpu </i> é <sup>giš</sup>ban <i> šúnu </i> 
+FEMALENAME ússadu šenumun <i> šá </i> NAME a <i> šá </i> 
+<i> ina </i> igi NAME NAME ù </i> NAME </i> 
+<sup>lú</sup>diku<sub>5</sub>meš <i> šá </i> i<sub>7</sub> GODNAME </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME </i> <sup>lú</sup>ugula <i> šá </i> kágalémah 
+na<sub>4</sub> kišib NAME <sup>lú</sup>diku<sub>5</sub> <i> šá </i> i<sub>7</sub> GODNAME kišib NAME <sup> lú</sup>diku<sub>5</sub> <i> šá </i> i<sub>7</sub> GODNAME kišib NAME <sup>lú</sup>diku<sub>5</sub> <i> šá </i> i<sub>7</sub> GODNAME 
+<ENDTOKEN> NUM NUMNUM mana kùbabbar <i> idi </i> é <i> šá </i> mu NUMkam 
+NUM NUMNUM mana <i> idi </i> é <i> šá </i> mu 
+<ENDTOKEN> NUM mana kùbabbar <i> ilki gamrutu </i> <sup>lú</sup>erín lugal <i> qéme šá </i> lugal 
+MONTH mu NUMkam <i> adi qiit </i> MONTH mu NUMkam 
+<i> šá </i> NAME a <i> šá </i> NAME u </i> <sup>lú</sup>enmeš <sup>giš</sup>ban <i> šú </i> 
+<i> šá ina </i> LOCATION šá ina </i> igi NAME <i> šá </i> NAME kùbabbar <i> a </i> NUM mana <i> ilki </i> tilmeš 
+NAME </i> <sup>lú</sup> <i> šaknu šá banaikanu </i> a <i> šá </i> 
+NAME <i> ina </i> šu<sup>II</sup> NAME a <i> šá </i> 
+na<sub>4</sub> kišib NAME a <i> šá </i> NAME kišib NAME <sup>lú</sup> <i> šak </i> <i> nu </i> <i> šá </i> <sup>lú</sup> <i> muškaaa </i> a <i> šá </i> NAME kišib NAME a <i> šá </i> NAME kišib NAME a <i> šá </i> NAME 
+<ENDTOKEN> NUM gín kùbabbar <i> nidintu </i> <sub>4</sub> <i> árkitu </i> <sub>4</sub> <i> ilki </i> tilmeš 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME MONTH u<sub>4</sub> NUMkam mu NUMkam 
+<ENDTOKEN> NUM gur zúlumma zagudu ašà <i> šá </i> mu NUMkam NAME lugal 
+NUM gur zagudu ašà mumeš <i> šá </i> mu NUMkam 
+<i> šá </i> NAME ina </i> šu<sup>II</sup> NAME a <i> šá </i> 
+NAME šá </i> zúlumma <i> a </i> NUM gur zagudu ašà mumeš 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam 
+<i> unqu </i> NAME <sup>lú</sup> <i> paqdu šá </i> NAME </i> NAME <i> šá </i> 
+NAME <i> šá </i> NAME </i> NAME <i> šá </i> NAME 
+<sup>giš</sup>ban <i> šá </i> NAME šá </i> <sup>lú</sup> <i> haaṭri </i> 
+<i> šá </i> <sup>lú</sup> <i> arúmaaa šá ina </i> LOCATION ina </i> igi NAME a <i> šá </i> NAME kùbabbar <i> a </i> NUMNUM mana <sup>giš</sup>bán 
+NAME <sup>lú</sup> <i> šaknu šá </i> <sup>lú</sup> <i> arúmaaa </i> 
+a <i> šá </i> NAME ina </i> šu<sup>II</sup> NAME <i> šá </i> NAME </i> <i> ma </i> <i> hir 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME </i> a <i> šá </i> NAME </i> NAME </i> a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION MONTH u<sub>4</sub> NUMkam mu NUMkam NAME lugal kurkur 
+NAME <i> šá </i> NAME kišib NAME <i> šá </i> NAME kišib NAME <i> šá </i> NAME kišib 
+NUM <i> en </i> udu nitá NUMNUM <i> qéme </i> <sup>giš</sup>bán ašà <i> šá </i> mu NUMkam 
+<i> šá ina muhhi </i> <sup>giš</sup>ban <i> šá </i> <sup>lú</sup> <i> arúmaaa </i> 
+NAME a <i> šá </i> NAME <sup>lú</sup>ìr <i> šá </i> NAME a<sub>4</sub> </i> NUMNUM mana <sup>dug</sup> <i> dannua </i> NUM <i> en </i> 
+udu nitá <i> a </i> NUM <i> en qémea </i> NUMNUM <sup>giš</sup>bán 
+mu NUMkam mu NUMkam NAME šá </i> <sup>lú</sup> <i> arúmaaa </i> 
+NAME a <i> šá </i> NAME mahir e </i> <i> ṭir </i> 
+<sup>lú</sup> <i> mukin </i> <sub>7</sub> NAME a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> 
+NAME NAME a <i> šá </i> NAME LOCATION MONTH NUMkam mu NUMkam NAME lugal kurkur 
+NAME lugal <i> šá </i> ašà <i> šá </i> NAME <i> šá </i> NAME u </i> <sup>lú</sup> <i> kinaattišúnu </i> 
+<i> ù šá </i> ašà <i> šá </i> NAME šá ina </i> LOCATION ina </i> igi NAME a <i> šá </i> NAME <i> a </i> NUMNUM mana <sup>giš</sup>bán 
+NAME a <i> šá </i> NAME </i> NAME a <i> šá </i> NAME u </i> NAME ameš <i> šá </i> NAME a <i> šá </i> NAME NAME <i> šá </i> NAME </i> NAME </i> a <i> šá </i> NAME a <i> šá </i> NAME NAME a <i> šá </i> NAME LOCATION MONTH NUMkam mu NUMkam NAME kurkur 
+a <i> šú šá </i> NAME <i> ina </i> <i> muhhi </i> 
+<i> šá </i> NAME <i> šá </i> <i> ina </i> <i> muhhi </i> 
+<i> u </i> lú umbisag NAME a <i> šú šá </i> 
+<ENDTOKEN> NUM mana kùbabbar <i> šá </i> NAME </i> lú <i> qalla </i> 
+<i> šá </i> NAME </i> lú nam LOCATION <i> u </i> <i> ebir </i> i<sub>7</sub> 
+<i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME 
+lú tuk <i> ú šánamma ina muhhi ul išallaṭ </i> 
+<i> idi </i> é <i> iaanu </i> <i> u </i> ur<sub>5</sub>ra kùbabbar 
+NAME </i> a <i> šú šá </i> NAME a lú simug 
+NAME a <i> šú šá </i> NAME a lú galdù 
+lú umbisag NAME a <i> šú šá </i> NAME a NAME 
+<i> šá </i> NAME a <i> šú šá </i> NAME 
+<i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> 
+<i> u </i> lú umbisag NAME a <i> šú šá </i> 
+<ENDTOKEN> NUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> 
+<i> šá </i> iti izi ur<sub>5</sub>ra <i> ina </i> <i> muhhišú </i> 
+<ENDTOKEN> NUM mana kùbabbar <i> nudunnuú </i> <i> šá </i> FEMALENAME 
+dam NAME dumumí <i> su </i> <i> šá </i> NAME 
+a NAME <i> šá </i> NAME a <i> šú </i> <i> šá </i> NAME 
+NAME <i> u </i> NAME <i> ina </i> šu<sup>II</sup> NAME 
+<i> mahra </i> šenumun <i> šá harra šá </i> NAME 
+<i> šá </i> <i> ina </i> šu<sup>II</sup> NAME mahra </i> 
+a <i> šú </i> <i> šá </i> NAME a NAME <i> kii </i> 
+<i> nudunnuú </i> <i> šá </i> FEMALENAME </i> dam <i> šú </i> 
+lú <i> mukinnu </i> NAME a <i> šú </i> <i> šá </i> NAME 
+<ENDTOKEN> é <i> šá </i> da é GODNAME <i> šá </i> NAME 
+a lú bahar<sub>2</sub> <i> iddin </i> <i> ahi </i> kùbabbar 
+<i> ina </i> sag mu <i> ù rehi </i> kùbabbar 
+<i> ina </i> <i> m </i> <i> išil </i> mu <i> inamdin </i> <i> ina </i> 
+kùbabbar <i> idi </i> é <i> šú šá adi qíit šá </i> iti izi 
+<i> šá </i> muNUMkám NAME lugal LOCATION lugal kurkur NAME <i> ina </i> šu<sup>II</sup> NAME eṭir </i> 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> 
+<i> u </i> lú umbisag NAME a <i> šú šá </i> NAME 
+NAME </i> a <i> šú šá </i> NAME a lú šuha 
+<i> ina </i> iti apin <i> ina haṣari ina </i> ugu NUM <i> rittu </i> <sub>4</sub> 
+<i> itti </i> NUM gur <i> tuhalla </i> <i> gipuú </i> 
+<i> mangaga </i> <i> biltu </i> <sub>4</sub> <i> šá </i> <i> huṣabi </i> 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> 
+<i> u </i> NAME dubsar a <i> šú šá </i> NAME 
+<ENDTOKEN> NUM gín gír <i> ú ù </i> NUM me NUM <i> piti </i> 
+lú <i> qalla </i> <i> šá </i> NAME a NAME 
+<i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME 
+<i> ina </i> iti bár NUM gín gír <i> ú </i> kùbabbar 
+<i> ù </i> NUM me NUM <i> piti šá </i> sumsar 
+lú <i> mukinnu </i> NAME a <i> šú šá </i> 

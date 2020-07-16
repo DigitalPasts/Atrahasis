@@ -1,0 +1,469 @@
+Question 1
+NUM ___ kùbabbar <i> ina </i> <i> pappasu </i> lú uš bar
+0) bar
+1) ana
+2) gur
+3) gín
+Answer: 3. Correct answer: 3.
+Order = [3 2 0 1]
+
+Question 2
+NAME a <i> šú šá </i> NAME ana </i> NAME lú <i> qíipi </i> ébabbarra <i> u </i> NAME lú sanga LOCATION <i> ___ umma </i>
+0) iqbi
+1) annutu
+2) lugal
+3) illiku
+Answer: 0. Correct answer: 0.
+Order = [0 1 2 3]
+
+Question 3
+NAME a <i> šú šá </i> NAME ana </i> NAME lú <i> qíipi </i> ébabbarra <i> u </i> NAME lú sanga LOCATION <i> ___ umma </i>
+0) bar
+1) liqbuú
+2) bán
+3) iqbi
+Answer: 3. Correct answer: 3.
+Order = [3 1 0 2]
+
+Question 4
+NAME a <i> šú šá </i> NAME ana </i> NAME lú <i> ___ </i> ébabbarra <i> u </i> NAME lú sanga LOCATION <i> iqbi umma </i>
+0) qíipi
+1) gal
+2) bán
+3) iqbi
+Answer: 0. Correct answer: 0.
+Order = [0 3 1 2]
+
+Question 5
+zúlumma <i> ___ </i> <i> ina </i> LOCATION <i> inamdin </i>
+0) šu<sup>II</sup>
+1) muhhi
+2) dumu
+3) gamrutu
+Answer: 3. Correct answer: 3.
+Order = [3 2 1 0]
+
+Question 6
+zúlumma <i> gamrutu </i> <i> ina </i> LOCATION <i> ___ </i>
+0) inamdin
+1) iddin
+2) iqbi
+3) haṣari
+Answer: 0. Correct answer: 0.
+Order = [0 1 3 2]
+
+Question 7
+zúlumma <i> gamrutu </i> <i> ___ </i> LOCATION <i> inamdin </i>
+0) ina
+1) elat
+2) muhhi
+3) ana
+Answer: 0. Correct answer: 0.
+Order = [0 3 1 2]
+
+Question 8
+NUM gín kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME <i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME <i> ina </i> ___ du<sub>6</sub> <i> inamdin </i>
+0) muhhi
+1) é
+2) iti
+3) mahar
+Answer: 2. Correct answer: 2.
+Order = [2 1 0 3]
+
+Question 9
+NUM gín ___ <i> šá </i> NAME a <i> šú šá </i> NAME <i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME <i> ina </i> iti du<sub>6</sub> <i> inamdin </i>
+0) zúlumma
+1) iddin
+2) biltu
+3) kùbabbar
+Answer: 3. Correct answer: 3.
+Order = [3 0 2 1]
+
+Question 10
+NUM gín kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME <i> ina </i> <i> ___ </i> NAME a <i> šú šá </i> NAME <i> ina </i> iti du<sub>6</sub> <i> inamdin </i>
+0) iṣṣi
+1) šu
+2) muhhi
+3) kùbabbar
+Answer: 2. Correct answer: 2.
+Order = [2 1 3 0]
+
+Question 11
+lú ___ NAME a <i> šú </i> <i> šá </i> NAME a NAME LOCATION iti apin u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION lugal kurkur
+0) umbisag
+1) muhhi
+2) mukinnu
+3) sanga
+Answer: 0. Correct answer: 0.
+Order = [0 2 3 1]
+
+Question 12
+lú umbisag NAME a <i> šú </i> <i> šá </i> NAME a NAME LOCATION iti apin u<sub>4</sub> NUMkam __ NUMkam NAME lugal LOCATION lugal kurkur
+0) iti
+1) lugal
+2) mu
+3) u<sub>4</sub>
+Answer: 2. Correct answer: 2.
+Order = [2 3 1 0]
+
+Question 13
+___ <i> šá </i> da é GODNAME <i> šá </i> NAME a <i> šú šá </i> NAME a NAME
+0) umma
+1) é
+2) ana
+3) zúlumma
+Answer: 1. Correct answer: 1.
+Order = [1 3 0 2]
+
+Question 14
+é <i> šá </i> ___ é GODNAME <i> šá </i> NAME a <i> šú šá </i> NAME a NAME
+0) ugu
+1) inamdin
+2) itti
+3) da
+Answer: 3. Correct answer: 3.
+Order = [3 0 2 1]
+
+Question 15
+NAME lú šàtam éanna dumušú šá NAME <i> iqbi </i> <i> ___ </i>
+0) kii
+1) umma
+2) ana
+3) qíipi
+Answer: 1. Correct answer: 1.
+Order = [1 2 0 3]
+
+Question 16
+NAME lú šàtam ___ dumušú šá NAME <i> iqbi </i> <i> umma </i>
+0) lugal
+1) gal
+2) kurkur
+3) éanna
+Answer: 3. Correct answer: 3.
+Order = [3 0 1 2]
+
+Question 17
+<i> elat </i> NUM gur ___ <i> šá </i> iti gan <i> inamdiin </i>
+0) kùbabbar
+1) éanna
+2) šebar
+3) iqbi
+Answer: 2. Correct answer: 2.
+Order = [2 0 1 3]
+
+Question 18
+<i> elat </i> NUM gur šebar <i> šá </i> iti gan <i> ___ </i>
+0) kùbabbar
+1) inamdiin
+2) lugal
+3) illiku
+Answer: 3. Correct answer: 1.
+Order = [3 1 0 2]
+
+Question 19
+<i> ina </i> <i> kanaku </i> ___ <i> šuatì </i>
+0) imdub
+1) é
+2) ṭuppi
+3) gamrutu
+Answer: 0. Correct answer: 0.
+Order = [0 1 2 3]
+
+Question 20
+<i> ina </i> <i> kanaku </i> imdub <i> ___ </i>
+0) šuatu
+1) šuatì
+2) ana
+3) šúnu
+Answer: 1. Correct answer: 1.
+Order = [1 3 2 0]
+
+Question 21
+NAME dumu <i> šá </i> NAME ina ___ lìbbišú ana </i> NAME dumu <i> šá </i> NAME kiaam iqbi umma </i>
+0) huud
+1) lìbbi
+2) muhhi
+3) ká
+Answer: 0. Correct answer: 0.
+Order = [0 1 2 3]
+
+Question 22
+NUM me NUM kùš sagki ___ tu<sub>15</sub> sisá ússadu šà ašà
+0) anta
+1) martu
+2) irbi
+3) da
+Answer: 0. Correct answer: 0.
+Order = [0 1 3 2]
+
+Question 23
+LOCATION ___ zíz u<sub>4</sub> NUMkam
+0) igi
+1) iti
+2) mu
+3) imdub
+Answer: 1. Correct answer: 1.
+Order = [1 0 2 3]
+
+Question 24
+NUM gurNUM šebar ta <i> ___ </i>
+0) illiku
+1) irbi
+2) rebat
+3) iqbuú
+Answer: 1. Correct answer: 1.
+Order = [1 2 0 3]
+
+Question 25
+NUM <i> en puut </i> NUM <i> i ___
+0) inamdinu
+1) ilquú
+2) lìbbi
+3) našuú
+Answer: 3. Correct answer: 3.
+Order = [3 0 1 2]
+
+Question 26
+<i> šá </i> lú umbisagmeš <i> ana imittu </i> <sub>4</sub> <i> ana LOCATION <i> u birtu </i> <sub>4</sub> <i> šá </i> NAME <i> ___
+0) našuú
+1) ilquú
+2) illiku
+3) šebar
+Answer: 0. Correct answer: 2.
+Order = [0 2 3 1]
+
+Question 27
+__ kita tu<sub>15</sub> u<sub>18</sub>lu da é NAME dumu <i> šú šá </i> NAME
+0) sag
+1) ki
+2) ṭuppi
+3) ús
+Answer: 3. Correct answer: 3.
+Order = [3 0 2 1]
+
+Question 28
+ús kita tu<sub>15</sub> u<sub>18</sub>lu da ___ NAME dumu <i> šú šá </i> NAME
+0) ašà
+1) é
+2) <sup>giš</sup>kiri<sub>6</sub>
+3) ugu
+Answer: 1. Correct answer: 1.
+Order = [1 3 0 2]
+
+Question 29
+NUMNUM ___ kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> nuuhhutu </i> <i> šá ana </i> hala <i> ana </i> NAME a <i> šú šá </i> NAME a NAME <i> iddin
+0) bitqa
+1) bar
+2) gín
+3) mana
+Answer: 3. Correct answer: 3.
+Order = [3 2 0 1]
+
+Question 30
+NUMNUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> ___ </i> <i> nuuhhutu </i> <i> šá ana </i> hala <i> ana </i> NAME a <i> šú šá </i> NAME a NAME <i> iddin
+0) bitqa
+1) kùbabbar
+2) zúlumma
+3) inamdin
+Answer: 0. Correct answer: 0.
+Order = [0 3 1 2]
+
+Question 31
+lú <i> tú </i> <i> šá </i> <i> ina </i> iti kin u<sub>4</sub> NUMkam mu NUMkam <i> šá </i> NAME lugal ___ dumumí <i> šá </i> NAME dumu NAME ana </i> NUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> nuuhhutú ana </i> NAME dumu <i> šá </i> NAME dumu lú sanga GODNAME <i> taaddinnu </i>
+0) FEMALENAME
+1) zúlumma
+2) kùbabbar
+3) lugal
+Answer: 0. Correct answer: 0.
+Order = [0 3 2 1]
+
+Question 32
+lú <i> tú </i> <i> šá </i> <i> ina </i> iti kin u<sub>4</sub> NUMkam mu NUMkam <i> šá </i> NAME lugal FEMALENAME dumumí <i> šá </i> NAME dumu NAME ana </i> NUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> nuuhhutú ana </i> NAME dumu <i> šá </i> NAME dumu lú sanga GODNAME <i> ___ </i>
+0) ilquú
+1) mašihu
+2) taaddinnu
+3) inamdin
+Answer: 3. Correct answer: 2.
+Order = [3 0 2 1]
+
+Question 33
+NUM gín ___ <i> šá </i> NAME a <i> šú šá </i> NAME <i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME <i> ina </i> iti du<sub>6</sub> <i> inamdin </i>
+0) kùbabbar
+1) zúlumma
+2) šebar
+3) inamdin
+Answer: 0. Correct answer: 0.
+Order = [0 2 1 3]
+
+Question 34
+NUM gín kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME <i> ina </i> <i> ___ </i> NAME a <i> šú šá </i> NAME <i> ina </i> iti du<sub>6</sub> <i> inamdin </i>
+0) ašar
+1) du
+2) igi
+3) muhhi
+Answer: 3. Correct answer: 3.
+Order = [3 0 2 1]
+
+Question 35
+NUM túgkurrameš <i> šá idi </i> émeš <i> ina </i> ___ NAME
+0) igi
+1) šu<sup>II</sup>
+2) muhhi
+3) šá
+Answer: 0. Correct answer: 1.
+Order = [0 1 2 3]
+
+Question 36
+NUM gín kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME <i> ina </i> <i> muhhi </i> NAME a <i> šú šá </i> NAME <i> ina </i> iti du<sub>6</sub> <i> ___ </i>
+0) iqbi
+1) inamdin
+2) mu
+3) NUMkam
+Answer: 1. Correct answer: 1.
+Order = [1 3 2 0]
+
+Question 37
+lú umbisag NAME a <i> šú šá </i> NAME LOCATION iti izi u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION lugal ___
+0) iqbi
+1) LOCATION
+2) kurkur
+3) inamdin
+Answer: 2. Correct answer: 2.
+Order = [2 1 3 0]
+
+Question 38
+__ umbisag NAME a <i> šú šá </i> NAME LOCATION iti izi u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION lugal kurkur
+0) mahar
+1) umma
+2) ana
+3) lú
+Answer: 3. Correct answer: 3.
+Order = [3 0 2 1]
+
+Question 39
+lú ___ NAME a <i> šú šá </i> NAME LOCATION iti izi u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION lugal kurkur
+0) umbisag
+1) gal
+2) mukinnu
+3) simug
+Answer: 0. Correct answer: 0.
+Order = [0 3 2 1]
+
+Question 40
+lú umbisag NAME ___ <i> šú šá </i> NAME LOCATION iti izi u<sub>4</sub> NUMkam mu NUMkam NAME lugal LOCATION lugal kurkur
+0) dumu
+1) a
+2) rittu
+3) illiku
+Answer: 1. Correct answer: 1.
+Order = [1 0 2 3]
+
+Question 41
+lú umbisag NAME a <i> šú šá </i> NAME LOCATION iti izi u<sub>4</sub> ___ mu NUMkam NAME lugal LOCATION lugal kurkur
+0) ab
+1) NUMkam
+2) NAME
+3) lugal
+Answer: 1. Correct answer: 1.
+Order = [1 0 3 2]
+
+Question 42
+NUM gur zúlumma <i> šá </i> NAME a <i> šú šá </i> NAME ___ NAME <i> ina </i> ugu NAME a <i> šú šá </i> NAME a NAME <i> ina </i> iti apin zúlumma <i> gamrutu inamdin </i>
+0) u
+1) ú
+2) a
+3) ana
+Answer: 2. Correct answer: 2.
+Order = [2 0 3 1]
+
+Question 43
+<i> ina </i> iti apin <i> ina haṣari ina </i> ugu NUM <i> rittu </i> <sub>4</sub> <i> itti </i> NUM gur <i> tuhalla </i> <i> gipuú </i> <i> ___ </i> <i> biltu </i> <sub>4</sub> <i> šá </i> <i> huṣabi </i> <i> inamdin </i>
+0) mangaga
+1) huṣabi
+2) muhhi
+3) tuhalla
+Answer: 0. Correct answer: 0.
+Order = [0 2 3 1]
+
+Question 44
+<i> sissinnu ul ___ </i>
+0) eṭir
+1) ipušú
+2) itti
+3) ipušú
+Answer: 0. Correct answer: 0.
+Order = [0 2 1 3]
+
+Question 45
+<i> kuum dullu </i> <i> šá ina lìbbi ___ </i>
+0) lìbbi
+1) ipušú
+2) ziqpu
+3) illiku
+Answer: 0. Correct answer: 1.
+Order = [0 2 1 3]
+
+Question 46
+NUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> ina muhhi </i> NAME u </i> NAME dumumeš <i> šá </i> NAME a lú ___ GODNAME <i> šá </i> iti <i> ana </i> <i> muhhi </i> NUM <i> manée </i> NUM gín kùbabbar <i> ina muhhi </i> <i> šúnu irabbi
+0) dumu
+1) sanga
+2) mukinnu
+3) umbisag
+Answer: 1. Correct answer: 1.
+Order = [1 3 2 0]
+
+Question 47
+NUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> ina muhhi </i> NAME u </i> NAME dumumeš <i> šá </i> NAME a lú sanga GODNAME <i> šá </i> iti <i> ana </i> <i> muhhi </i> NUM <i> manée </i> NUM gín kùbabbar <i> ina muhhi </i> <i> šúnu ___
+0) irabbi
+1) irbi
+2) illiku
+3) a
+Answer: 0. Correct answer: 0.
+Order = [0 3 1 2]
+
+Question 48
+NUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> ina muhhi </i> NAME u </i> NAME ___ <i> šá </i> NAME a lú sanga GODNAME <i> šá </i> iti <i> ana </i> <i> muhhi </i> NUM <i> manée </i> NUM gín kùbabbar <i> ina muhhi </i> <i> šúnu irabbi
+0) adi
+1) a
+2) dumumeš
+3) dumu
+Answer: 2. Correct answer: 2.
+Order = [2 3 1 0]
+
+Question 49
+NUM mana kùbabbar <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> ina muhhi </i> NAME u </i> NAME dumumeš <i> šá </i> NAME a lú sanga GODNAME <i> šá </i> iti <i> ana </i> <i> muhhi </i> NUM <i> ___ </i> NUM gín kùbabbar <i> ina muhhi </i> <i> šúnu irabbi
+0) gín
+1) bitqa
+2) lugal
+3) manée
+Answer: 3. Correct answer: 3.
+Order = [3 0 1 2]
+
+Question 50
+NUM gín kùbabbar <i> elat </i> NUM mana NUM gín kùbabbar <i> mahruú ina </i> NUM mana kùbabbar šám ašà <i> u </i> é <i> šá </i> kágal <i> giššú </i> <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> šá </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME <i> ___
+0) imhuru
+1) iqbuú
+2) inamdin
+3) umbisag
+Answer: 2. Correct answer: 0.
+Order = [2 0 1 3]
+
+Question 51
+NUM gín kùbabbar <i> ___ </i> NUM mana NUM gín kùbabbar <i> mahruú ina </i> NUM mana kùbabbar šám ašà <i> u </i> é <i> šá </i> kágal <i> giššú </i> <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> šá </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME <i> imhuru
+0) adi
+1) mala
+2) elat
+3) é
+Answer: 2. Correct answer: 2.
+Order = [2 0 1 3]
+
+Question 52
+NUM gín kùbabbar <i> elat </i> NUM mana NUM gín kùbabbar <i> mahruú ina </i> NUM mana kùbabbar ___ ašà <i> u </i> é <i> šá </i> kágal <i> giššú </i> <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> šá </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME <i> imhuru
+0) mala
+1) šám
+2) ugu
+3) mahruú
+Answer: 1. Correct answer: 1.
+Order = [1 2 3 0]
+
+Correct in total 46, out of 52. 88.461538%

@@ -1,0 +1,48 @@
+Question 18
+<i> elat </i> NUM gur šebar <i> šá </i> iti gan <i> ___ </i>
+0) kùbabbar
+1) inamdiin
+2) lugal
+3) illiku
+Answer: 3. Correct answer: 1.
+
+Question 26
+<i> šá </i> lú umbisagmeš <i> ana imittu </i> <sub>4</sub> <i> ana LOCATION <i> u birtu </i> <sub>4</sub> <i> šá </i> NAME <i> ___
+0) našuú
+1) ilquú
+2) illiku
+3) šebar
+Answer: 0. Correct answer: 2.
+
+Question 32
+lú <i> tú </i> <i> šá </i> <i> ina </i> iti kin u<sub>4</sub> NUMkam mu NUMkam <i> šá </i> NAME lugal FEMALENAME dumumí <i> šá </i> NAME dumu NAME ana </i> NUM mana kùbabbar <i> šá </i> <i> ina </i> NUM gín <i> bitqa </i> <i> nuuhhutú ana </i> NAME dumu <i> šá </i> NAME dumu lú sanga GODNAME <i> ___ </i>
+0) ilquú
+1) mašihu
+2) taaddinnu
+3) inamdin
+Answer: 3. Correct answer: 2.
+
+Question 35
+NUM túgkurrameš <i> šá idi </i> émeš <i> ina </i> ___ NAME
+0) igi
+1) šu<sup>II</sup>
+2) muhhi
+3) šá
+Answer: 0. Correct answer: 1.
+
+Question 45
+<i> kuum dullu </i> <i> šá ina lìbbi ___ </i>
+0) lìbbi
+1) ipušú
+2) ziqpu
+3) illiku
+Answer: 0. Correct answer: 1.
+
+Question 50
+NUM gín kùbabbar <i> elat </i> NUM mana NUM gín kùbabbar <i> mahruú ina </i> NUM mana kùbabbar šám ašà <i> u </i> é <i> šá </i> kágal <i> giššú </i> <i> šá </i> NAME a <i> šú šá </i> NAME a NAME <i> šá </i> šu<sup>II</sup> NAME a <i> šú šá </i> NAME a NAME <i> ___
+0) imhuru
+1) iqbuú
+2) inamdin
+3) umbisag
+Answer: 2. Correct answer: 0.
+
